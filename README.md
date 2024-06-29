@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+This repository is empty at the moment, but in the future I will definitely add here any projects in which I have ever participated :)
+Nevertheless, now you can familiarize yourself with the solutions to the test tasks for the study of C language and a couple of group projects that I saved from the intensive course from "School 21"
 <!--
 **yurmihh/yurmihh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
